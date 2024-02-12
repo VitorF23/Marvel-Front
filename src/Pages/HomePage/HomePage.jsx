@@ -1,5 +1,7 @@
+import AllPersonnages from "../AllPersonnages/AllPersonnages";
+
 const HomePage = () => {
-  return <div>Home</div>;
+  return <AllPersonnages />;
 };
 
 export default HomePage;
