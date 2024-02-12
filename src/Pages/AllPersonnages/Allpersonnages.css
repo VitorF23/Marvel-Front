@@ -1,0 +1,29 @@
+.personnages-div {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.personnages-div img {
+  width: 250px;
+  height: 250px;
+}
+
+.personnages-div-div {
+  padding: 20px;
+  background-color: rgb(110, 110, 110);
+  margin: 20px;
+  border-radius: 10px;
+  flex: 1;
+}
+
+.personnages-div h1 {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  color: rgba(47, 4, 4, 0.932);
+  font-weight: bold;
+}

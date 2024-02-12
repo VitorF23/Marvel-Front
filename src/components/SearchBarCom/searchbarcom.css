@@ -1,0 +1,9 @@
+.input {
+  display: flex;
+  justify-content: center;
+}
+
+.input input {
+  width: 350px;
+  background-color: rgb(204, 200, 196);
+}

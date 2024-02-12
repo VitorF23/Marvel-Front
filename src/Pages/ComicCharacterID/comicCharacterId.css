@@ -1,0 +1,22 @@
+.comicsCharacter button {
+  background-color: rgb(243, 70, 70);
+  color: white;
+  width: 450px;
+  font-size: 15px;
+  margin: 10px;
+}
+
+.main-comicsCharacter {
+  width: 1024px;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.comicsCharacter {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}

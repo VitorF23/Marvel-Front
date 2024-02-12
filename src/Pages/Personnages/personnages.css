@@ -1,0 +1,36 @@
+.personnage-div {
+  display: flex;
+}
+
+.personnage-div img {
+  width: 550px;
+  height: 550px;
+  margin-top: 20px;
+}
+
+.personnage-text h1 {
+  font-size: 35px;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-top: 20px;
+  color: rgb(122, 129, 135);
+}
+
+.personnage-text h2 {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 30px;
+  color: rgb(122, 129, 135);
+}
+
+.personnage-text span {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.personnage-text-span {
+  display: flex;
+  justify-content: center;
+  color: rgb(202, 209, 216);
+}

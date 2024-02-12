@@ -1,0 +1,24 @@
+.iconPage {
+  width: 50px;
+  height: 50px;
+  color: red;
+  padding: 50px;
+}
+
+.buttonPage {
+  border: none;
+  background: none;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.buttonPage span:nth-child(1) {
+  font-size: 20px;
+}
+
+.buttonPage > .buttonPage {
+  height: 20px;
+}

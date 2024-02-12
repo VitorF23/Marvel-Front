@@ -1,0 +1,27 @@
+.comic-div-div {
+  display: flex;
+}
+
+.comic-div-div img {
+  width: 450px;
+}
+
+.comic-text {
+  width: 950px;
+}
+
+.comic-text h1 {
+  font-size: 50px;
+  color: red;
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+}
+
+.comic-text h2 {
+  font-size: 30px;
+  color: rgb(122, 129, 135);
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+}
